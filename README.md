@@ -6,7 +6,7 @@ Insira aqui um resumo do projeto que será construído. Tente apresentar uma jus
  - [Nome do desenvolvedor #1](url-do-github-do-desenvolvedor-#1)
  - [Nome do desenvolvedor #2](url-do-github-do-desenvolvedor-#2)
  - [Nome do desenvolvedor #3](url-do-github-do-desenvolvedor-#3)
- - [Nome do desenvolvedor #4](url-do-github-do-desenvolvedor-#4)
+ - [Nome do desenvolvedor #4](url-do-github-do-desenvolvedor-#4
  - ...
 
 ---
